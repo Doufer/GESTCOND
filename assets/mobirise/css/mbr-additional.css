@@ -1,0 +1,48 @@
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #28324e;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #e46900;
+}
+#ext_menu-1 .mbr-navbar__items a {
+  font-size: 19px;
+}
+#msg-box5-b .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-b .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #000000;
+  font-size: 24px;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article P {
+  color: #5b5a5a;
+  font-size: 18px;
+  text-align: left;
+}
+#header3-9 H3 {
+  text-align: center;
+}
+#features1-6 P {
+  text-align: center;
+}
+#form1-4 SPAN {
+  font-size: 15px;
+}
+#form1-4 .btn {
+  font-size: 16px;
+}
